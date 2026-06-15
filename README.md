@@ -1,4 +1,4 @@
-# North Carolina Secretary of State Business Search API
+# NC SOS Business Search & Entity Enricher
 
 Unofficial API-style NC Secretary of State business entity lookup powered by Apify.
 
@@ -8,12 +8,12 @@ https://apify.com/monty15/north-carolina-sos-business-search
 
 ## Bulk NC business entity lookup
 
-This Apify Actor bulk-searches North Carolina Secretary of State Business Registration records by company/entity name and exports structured dataset rows for CSV, Excel, JSON, and API workflows.
+This Apify Actor bulk-searches North Carolina Secretary of State Business Registration records by company/entity name and exports structured dataset rows for CSV, Excel, JSON, and Apify API workflows.
 
 Use it for:
 
 - NC Secretary of State business search
-- North Carolina business entity search API workflows
+- API-style North Carolina business entity search workflows
 - NC SOS business lookup
 - NC registered agent lookup
 - North Carolina company status verification
